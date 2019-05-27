@@ -35,7 +35,7 @@
     "IDE : Eclipse & IBM DataStage",
     "Client : The United Services Automobile Association(USAA)",
     "Database : Oracle 11g, DB2 and ERDC",
-    "Domain : AML and Bank",
+    "Domain : Anti Money Laundering",
     "Operating System : Windows 7 & UNIX",
     "Team Size : 3",
     "Role : Developer"
@@ -44,9 +44,29 @@
     "Created USAA net banking website which ask customer to answer the KYC details.",
     "REST API’s are used to retrieve and update the data in database.",
     "Handling ETL jobs all the extract, transformation and loading the data in more ways using IBM DataStage tool.",
-    "The file which is loaded from the PeopleSoft/ETL system to the input folder. To Monitor specify file in the input folder created PowerShell script which will triggered from the Control – M",
     "Created various control – M jobs to automate the process."
   ],
+
+  "project1": [
+    "Title : Strategic Tax Solution",
+    "Technology Used : Java, IBM DataStage, spring, REST API, SQL, PowerShell script",
+    "Framework : Ext JS, Spring",
+    "IDE : Eclipse, IBM DataStage and SQL Developer",
+    "Client : The United Services Automobile Association(USAA)",
+    "Database : Oracle 11g",
+    "Domain : Bank",
+    "Operating System : Windows 7 & UNIX",
+    "Team Size : 2",
+    "Role : Developer"
+  ],
+  "projectdesc1": [
+    "Infrastructure Dashboard shows the list of activity happens in CORP Tax System (Server System), status of those activities and all file information in the FAI Dashboard.",
+    "REST API’s are used to retrieve and update the data in database.",
+    "REST API’s are used to retrieve and update the data in database. Ext JS is used for the Front End. The file which is loaded from the PeopleSoft/ETL system to the input folder. To Monitor specify file in the input folder created PowerShell script which will triggered from the Control – M (Automation Tool).",
+    "Handling ETL jobs all the extract, transformation and loading the data in more ways using IBM DataStage tool.",
+    "Created various control – M jobs to automate the process."
+  ],
+
   "academic": [
     {
       "course": "Master of Computer Applications",
